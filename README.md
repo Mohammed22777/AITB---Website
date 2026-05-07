@@ -4,7 +4,7 @@ A responsive front-end website built as a capstone project for the **Web Develop
 
 ## Live Demo
 
-🔗 [View Live Site](https://yourusername.github.io/aitb-website) ← *replace with your actual GitHub Pages link*
+🔗 [View Live Site](https://mohammed22777.github.io/AITB---Website/)
 
 ## Preview
 
